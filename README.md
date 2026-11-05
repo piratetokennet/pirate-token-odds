@@ -40,6 +40,14 @@ chanceAtLeastOne(QUOTED_RATE, squadChests(25, 10, 30, 4)); // 0.042
 
 The same math, with your own numbers, a chest map and the activation countdown: **[piratetoken.net](https://piratetoken.net)**
 
+## More Pirate Token guides
+
+- [Power Hour and Treasure Hours times](https://piratetoken.net/pirate-token-power-hour), shown in your time zone
+- [What the token lets you claim](https://piratetoken.net/pirate-token-items): Item Shop rules, one-Sidekick limit, what's excluded
+- [When to activate](https://piratetoken.net/pirate-token-activation), with a planner for the 14-day window
+- [Which modes can drop it](https://piratetoken.net/pirate-token-modes)
+- [Rumors, fact-checked](https://piratetoken.net/pirate-token-myths)
+
 ## License
 
 MIT. Fan project, not affiliated with or endorsed by Epic Games. Fortnite is a trademark of Epic Games, Inc.
